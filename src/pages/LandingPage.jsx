@@ -50,7 +50,7 @@ export default function LandingPage() {
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-indigo-900 text-white overflow-hidden">
       {/* Highlighted Meetmux Banner */}
       {/* Highlighted Meetmux Banner - Improved Visibility */}
-      <div className="relative z-20 bg-gradient-to-r from-purple-600/90 to-indigo-600/90  py-3 px-4 border-b border-white/30 shadow-xl">
+      {/* <div className="relative z-20 bg-gradient-to-r from-purple-600/90 to-indigo-600/90  py-3 px-4 border-b border-white/30 shadow-xl">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-white font-bold ">
             <span className="bg-white/30 rounded-full px-3 py-1 mr-2 ">
@@ -59,7 +59,7 @@ export default function LandingPage() {
             I'm Yugandhar. I'm interested. I'm Excited as an Early member.
           </p>
         </div>
-      </div>
+      </div> */}
 
       {/* Animated background elements */}
 
